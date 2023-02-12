@@ -1,0 +1,30 @@
+The total numbers of registered users are 4
+There is 2 completed tasks in the database
+
+User: admin
+Number of tasks assigned to the admin is 2
+The total percentage of tasks assigned to admin is 50.0%
+The percentage of tasks completed by admin is 100.0%
+The percentage of tasks not completed by admin is 0.0%
+The percentage of tasks overdue by admin is 0.0%
+
+User: user2
+Number of tasks assigned to the user2 is 1
+The total percentage of tasks assigned to user2 is 25.0%
+The percentage of tasks completed by user2 is 0.0%
+The percentage of tasks not completed by user2 is 100.0%
+The percentage of tasks overdue by user2 is 0.0%
+
+User: user3
+Number of tasks assigned to the user3 is 0
+The total percentage of tasks assigned to user3 is 0.0%
+The percentage of tasks completed by user3 is 0%
+The percentage of tasks not completed by user3 is 0%
+The percentage of tasks overdue by user3 is 0%
+
+User: user4
+Number of tasks assigned to the user4 is 1
+The total percentage of tasks assigned to user4 is 25.0%
+The percentage of tasks completed by user4 is 0.0%
+The percentage of tasks not completed by user4 is 100.0%
+The percentage of tasks overdue by user4 is 100.0%
